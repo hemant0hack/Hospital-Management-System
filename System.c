@@ -133,9 +133,10 @@ void resetHospitalData() {
 int main() {
     int choice;
     while (1) {
-        printf("\nHospital Management System:\n");
-        printf("1. Add Patient\n2. View Patients\n3. Add Doctor\n4. View Doctors\n5. Schedule Appointment\n6. View Appointments\n7. Generate Bill\n8. Reset Data\n9. Exit\n");
-        printf("\nEnter choice: ");
+        printf("\nHospital Management System Menu:\n");
+        printf("1. Add Patient\n2. View Patients\n3. Add Doctor\n4. View Doctors\n5. Schedule Appointment\n");
+        printf("6. View Appointments\n7. Generate Bill\n8. Reset Data\n9. Exit\n");
+        printf("Enter choice: ");
         scanf("%d", &choice);
         
         switch (choice) {
