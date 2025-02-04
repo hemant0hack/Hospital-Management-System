@@ -22,8 +22,8 @@ typedef struct {
 
 typedef struct {
     char id[20];
-    char patientId;
-    char doctorId;
+    char patientId[20];
+    char doctorId[20];
     char appointmentDateTime[30];
 } Appointment;
 
@@ -95,7 +95,8 @@ void addAppointment() {
     scanf("%s", &appointments[appointmentCount].patientId);
     printf("Enter Doctor ID: ");
     scanf("%s", &appointments[appointmentCount].doctorId);
-    getCurrentDateTime(appointments[appointmentCount].appointmentDateTime);
+    printf("Enter Appointments Date :");
+    scanf("%s", &appointments[appointmentCount].appointmentDateTime);
     appointmentCount++;
     printf("Appointment added successfully!\n");
 }
