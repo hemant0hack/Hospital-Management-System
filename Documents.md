@@ -2,7 +2,7 @@
 
 ##  Block Diagram
 
-![Block_Diagram](Images\Block_Diagram.png)
+![Block_Diagram](Images/Block_Diagram.png)
 
 ## Slides 📊
 
