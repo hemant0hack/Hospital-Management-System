@@ -23,13 +23,13 @@ To install and run the Hospital Management System, follow these steps:
     ```bash
     cd Hospital_Management_System
     ```
-3. Install the required dependencies:
+3. Compile the server:
     ```bash
-    npm install
+    gcc system.c -o system
     ```
-4. Start the application:
+4. Run The server:
     ```bash
-    npm start
+    ./system
     ```
 
 ## Usage 📖
