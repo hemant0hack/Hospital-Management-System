@@ -1,17 +1,14 @@
-<h1 align="center"> Hospital_Management_System</h1>
+<h1 align="center"> 🏥Hospital_Management_System</h1>
 
-## Overview
+## Overview 📋
 
-The Hospital Management System is designed to streamline the operations of a hospital. It helps in managing patient information, doctor appointments, medical records, billing, and other administrative tasks.
+The Hospital Management System is designed to streamline the operations of a hospital. It helps in managing patient, doctor, appointments informations, medical records, and other administrative tasks.
 
-## Features
+## Features ✨
 
 - Patient Registration and Management
 - Doctor and Staff Management
 - Appointment Scheduling
-- Medical Records Management
-- Billing and Invoicing
-- Inventory Management
 - Reporting and Analytics
 
 ## Installation
@@ -37,15 +34,11 @@ To install and run the Hospital Management System, follow these steps:
 
 ## Usage
 
-Once the application is running, you can access it via your web browser at `http://localhost:3000`. Use the provided credentials to log in and start managing hospital operations.
+Once the application is running, you can access it via the C compiler. Use the provided credentials to log in and start managing hospital operations.
 
 ## Contributing
 
 We welcome contributions to improve the Hospital Management System. Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
