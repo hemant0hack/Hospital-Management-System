@@ -1,4 +1,4 @@
-<h1 align="center"> 🏥Hospital_Management_System</h1>
+<h1 align="center"> 🏥<br>Hospital_Management_System</h1>
 
 ## Overview 📋
 
@@ -11,7 +11,7 @@ The Hospital Management System is designed to streamline the operations of a hos
 - Appointment Scheduling
 - Reporting and Analytics
 
-## Installation
+## Installation 🛠️
 
 To install and run the Hospital Management System, follow these steps:
 
@@ -32,14 +32,14 @@ To install and run the Hospital Management System, follow these steps:
     npm start
     ```
 
-## Usage
+## Usage 📖
 
 Once the application is running, you can access it via the C compiler. Use the provided credentials to log in and start managing hospital operations.
 
-## Contributing
+## Contributing 🤝
 
 We welcome contributions to improve the Hospital Management System. Please fork the repository and create a pull request with your changes.
 
-## Contact
+## Contact 📞
 
 For any questions or support, please contact [hemant0hack](mailto:hemant0hack@example.com).
