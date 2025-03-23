@@ -17,11 +17,11 @@ To install and run the Hospital Management System, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hemant0hack/Hospital_Management_System.git
+    git clone https://github.com/hemant0hack/Hospital-Management-System.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Hospital_Management_System
+    cd Hospital-Management-System
     ```
 3. Compile the server:
     ```bash
