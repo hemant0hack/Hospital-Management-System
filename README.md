@@ -38,7 +38,7 @@ Once the application is running, you can access it via the C compiler. Use the p
 
 ## Documentation 📄
 
-For detailed documentation, refer to the [DOCUMENTS](Images/Documents.md).
+For detailed documentation, refer to the [DOCUMENTS](Documents.md).
 
 ## Contributing 🤝
 
