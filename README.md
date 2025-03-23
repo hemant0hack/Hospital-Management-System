@@ -36,10 +36,14 @@ To install and run the Hospital Management System, follow these steps:
 
 Once the application is running, you can access it via the C compiler. Use the provided credentials to log in and start managing hospital operations.
 
+## Documentation 📄
+
+For detailed documentation, refer to the [DOCUMENTS](Images/Documents.md).
+
 ## Contributing 🤝
 
 We welcome contributions to improve the Hospital Management System. Please fork the repository and create a pull request with your changes.
 
 ## Contact 📞
 
-For any questions or support, please contact [hemant0hack](mailto:hemant0hack@example.com).
+For any questions or support, please contact [hemant0hack](mailto:hemant0hack@gmail.com).
